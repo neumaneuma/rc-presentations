@@ -1,7 +1,6 @@
-# Presentations
-* [Create a presentation with reveal.js](https://dbafromthecold.com/2021/02/21/creating-presentations-with-reveal-and-github-pages/)
+## Non-technical talks
+* [Cuban salsa dancing](https://neumaneuma.github.io/presentations/cuban-salsa-dancing/)
+* [Learning how to learn](https://neumaneuma.github.io/presentations/learning-how-to-learn/)
 
-## LocalHost links
-* [Cuban salsa dancing](http://localhost:2222/cuban-salsa-dancing/)
-* [Learning how to learn](http://localhost:2222/learning-how-to-learn/)
-* [Friday, 16 April demo](http://localhost:2222/friday-16-april-demo/)
+## Friday demos
+* [Friday, 16 April demo](https://neumaneuma.github.io/presentations/friday-16-april-demo/)
