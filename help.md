@@ -1,3 +1,7 @@
+---
+title: Help
+---
+
 # Presentations
 * [Create a presentation with reveal.js](https://dbafromthecold.com/2021/02/21/creating-presentations-with-reveal-and-github-pages/)
 
