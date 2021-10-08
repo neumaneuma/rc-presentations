@@ -62,13 +62,10 @@
 
 ## Why is it so much fun?
 <!-- .slide: style="text-align: left;"> -->
-- Mental challenges:
-  - Staying on beat
-  - Moves can get long and complicated
-  - Playing with the rueda
-- Physical challenges:
-  - Fast beat
-  - Caller doing lots of partner exchange moves
-- Sociological challenges:
-  - Dance is supposed to be synchronized
-  - Things can really fall apart, especially when playing with the rueda
+- Art + Sports + Puzzles
+
+---
+
+## See it in action
+<!-- .slide: style="text-align: left;"> -->
+https://youtu.be/7xpjG-mV5qc
