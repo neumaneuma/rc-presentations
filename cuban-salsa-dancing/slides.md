@@ -1,6 +1,7 @@
 
 # Cuban salsa dancing
-# (Rueda de Casino)
+## (Rueda de Casino)
+<img src="images/b.jpeg" width="500" height="400"/>
 
 ---
 
@@ -11,6 +12,7 @@
 - Puerto Rican influence thereafter. Also jazz
 - Became very popular in the 70s and 80s thanks to the disco scene at the time
 - Known as NY salsa, mambo, salsa on 2, or on 2
+<img src="images/f.jpeg" width="300" height="250"/>
 
 ---
 
@@ -19,6 +21,7 @@
 <!-- .slide: style="text-align: left;"> -->
 - Influenced by Puerto Rican salsa and ballroom
 - Known as LA salsa, salsa on 1, or on 1
+<img src="images/c.jpeg" width="300" height="400"/>
 
 ---
 
@@ -39,6 +42,7 @@
 - In the 80s and 90s many cubans who immigrated to the US made rueda popular in Miami
 - This also had a disco influence as well
 - Known as miami style, rueda de casino, cuban salsa, or rueda
+<img src="images/e.jpeg" width="400" height="300"/>
 
 ---
 
@@ -47,6 +51,7 @@
 - Group dance done in a circle
 - Caller is the person who decides what moves the group performs
 - Partner exchanges are what makes this a group dance
+<img src="images/d.jpeg" width="400" height="400"/>
 
 ---
 
@@ -63,6 +68,7 @@
 ## Why is it so much fun?
 <!-- .slide: style="text-align: left;"> -->
 - Art + Sports + Puzzles
+<img src="images/a.jpeg"/>
 
 ---
 
